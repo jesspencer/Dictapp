@@ -16,5 +16,5 @@ This is a program created in Python3 that will be command line functioning; the 
 Issues or comments [here](https://github.com/jesspencer/Dictapp/issues)
 
 ## Versioning
-*- git
-*- github
+* git
+* github
